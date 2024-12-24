@@ -26,3 +26,6 @@ Forward-looking analysis of the business's financial trajectory over the next fi
 
  ### Conclusion
 The financial analysis of the application business highlights key insights into revenue, expenses, and user engagement. Variance analysis between actual and budget figures reveals areas for improvement in forecasting and cost control. Retention and active user rates emphasize the need for customer-focused strategies. The 5-year projection outlines opportunities for growth and operational efficiency. These findings provide a roadmap for optimizing financial performance and achieving sustainable success.
+
+![MilaK_0-1654771756948](https://github.com/user-attachments/assets/ab177c8d-617e-4c05-8382-72b8bc923fbb)
+https://ibb.co/7b6dgPm
